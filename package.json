@@ -1,5 +1,6 @@
 {
-  "name": "Menno van Balen",
+  "name": "fcc-learn-npm-package-json",
+  "author": "Menno van Balen",
   "dependencies": {
     "express": "^4.14.0"
   },
