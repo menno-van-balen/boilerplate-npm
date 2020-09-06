@@ -1,6 +1,13 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Menno van Balen",
+  "description": "Manage Node.js projects and npm packages using package.json",
+  "keywords": [
+    "fcc project",
+    "exercise",
+    "freecodecamp"
+  ],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
